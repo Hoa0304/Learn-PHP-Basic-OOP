@@ -11,4 +11,4 @@
 
 Trong dự án này, tệp README.md trỏ đến tệp `basic/namespace.php`. Để truy cập vào nó, bạn có thể sử dụng đường dẫn tương đối:
 
-- [Xem namespace.php](src/basic/namespace.php)
+- [Xem namespace.php](basic/namespace.php)
