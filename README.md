@@ -1,14 +1,27 @@
 # Learn-PHP-Basic-OOP
 
-# Tên dự án
+<details>
+<summary>Basic</summary>
 
-## Cấu trúc thư mục
+<details>
+<summary>1. Biến, hằng, kiểu dữ liệu và Toán tử</summary>
 
-- `Learn-PHP-Basic-OOP/`: Thư mục chứa mã nguồn của dự án.
-  - `basic/`: Thư mục con chứa tệp cần trỏ tới.
+- [lesson-1.md](basic/lesson-1.md)
 
-## Hướng dẫn
+</details>
 
-Trong dự án này, tệp README.md trỏ đến tệp `basic/namespace.php`. Để truy cập vào nó, bạn có thể sử dụng đường dẫn tương đối:
+<details>
+<summary>1. Biến, hằng, kiểu dữ liệu và Toán tử</summary>
 
-- [Xem namespace.php](basic/namespace.php)
+- [lesson-2.md](basic/lesson-2.md)
+
+</details>
+
+
+> Note : trong PHP có phân biệt chữ thường và hoa
+
+</details>
+
+
+
+- [namespace.md](basic/namespace.md)
