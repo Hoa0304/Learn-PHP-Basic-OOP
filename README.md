@@ -3,19 +3,15 @@
 <details>
 <summary>Basic</summary>
 
-<details>
-<summary>1. Biến, hằng, kiểu dữ liệu và Toán tử</summary>
+1. Biến, hằng, kiểu dữ liệu và Toán tử.
 
 - [lesson-1.md](basic/lesson-1.md)
 
-</details>
-
-<details>
-<summary>1. Biến, hằng, kiểu dữ liệu và Toán tử</summary>
+2. Câu lệnh điều kiện trong PHP - Hàm isset và empty.
 
 - [lesson-2.md](basic/lesson-2.md)
 
-</details>
+
 
 
 > Note : trong PHP có phân biệt chữ thường và hoa
