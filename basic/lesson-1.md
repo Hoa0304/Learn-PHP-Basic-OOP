@@ -50,4 +50,4 @@ var_dump(__HANGSO__);
 
 4. Toán tử (Operators) :
 
-- [lesson_1.php](basic/lesson-1.php)
+- [lesson_1.php](lesson-1.php)
