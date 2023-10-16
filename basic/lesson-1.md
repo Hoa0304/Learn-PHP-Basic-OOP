@@ -4,8 +4,8 @@
 <summary>1. Biến</summary>
 
 - Quy tắt đặt tên biến :
-   - $name_Variable--number123 .
-   - Sau ```$``` chỉ được chữ or ```_``` không được số .
+          - $name_Variable--number123 .
+          - Sau ```$``` chỉ được chữ or ```_``` không được số .
 
 ```php
 
@@ -24,10 +24,10 @@ var_dump($variable);
 
 
 - Cấu trúc :
-   - Snake Case : 
-      - Cách 1 :```$bien_snake_case``` nối với nhau = ```_``` .
-      - Cách 2 : ```$bienSnakeCase```.
-   - CamelCase .
+        - Snake Case : 
+                 - Cách 1 :```$bien_snake_case``` nối với nhau = ```_``` .
+                 - Cách 2 : ```$bienSnakeCase```.
+        - CamelCase .
 
 
 </details>
