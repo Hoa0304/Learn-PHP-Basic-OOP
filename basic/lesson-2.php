@@ -15,7 +15,7 @@ if(isset($bienGi)){
 }
 //bool(false)
 
-if(1<5):
+if($x<5):
     ?>
     <h1>Cẩm Hoa</h1>
     <?php
